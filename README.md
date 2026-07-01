@@ -25,8 +25,6 @@ para asegurar la integridad de la información antes de persistir o imprimir los
 * **Sobrescritura de Métodos Estándar:** Implementación de formatos personalizados mediante
   `@Override String toString()` requeridos por rúbrica para auditoría de datos, coexistiendo con métodos de salida
   comerciales como `.mostrarMascota()`.
-* **Documentación Técnica Integrada (JavaDoc):** Estructura de código completamente comentada bajo estándares de
-  ingeniería de software, preparada para la exportación automática de manuales técnicos en formato HTML.
 
 ---
 
